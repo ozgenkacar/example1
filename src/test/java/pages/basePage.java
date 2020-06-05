@@ -4,6 +4,9 @@ import Utils.Driver;
 import org.openqa.selenium.support.PageFactory;
 
 public class basePage {
+    public static void main(String... args) {
+
+    }
     public basePage(){
         PageFactory.initElements(Driver.get(), this);
     }
