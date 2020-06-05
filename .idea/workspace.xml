@@ -28,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cpms9Ht4tb1OXv1f34Oot4fueS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Utils" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
@@ -69,13 +71,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="hbjvHCC" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="23" key="CommitChangelistDialog2" timestamp="1591365754549">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="241" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1591365754549" />
+
     <state x="245" y="113" key="com.intellij.ide.util.TipDialog" timestamp="1591242059015">
       <screen x="0" y="0" width="1097" height="577" />
     </state>
     <state x="245" y="113" key="com.intellij.ide.util.TipDialog/0.0.1097.577@0.0.1097.577" timestamp="1591242059015" />
+    <state x="507" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591364108158">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-287.-1080.1920.1080@0.0.1440.900" timestamp="1591364108158" />
   </component>
 </project>
