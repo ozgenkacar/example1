@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a4d91c6-2748-4d56-8ba9-25cd19dfcd63" name="Default Changelist" comment="" />
+    <list default="true" id="3a4d91c6-2748-4d56-8ba9-25cd19dfcd63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,23 +16,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="lookForNested" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1cpms9Ht4tb1OXv1f34Oot4fueS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Utils" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
@@ -53,9 +59,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="344" y="55" key="CommitChangelistDialog2" timestamp="1591364105719">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="344" y="55" key="CommitChangelistDialog2/0.0.1440.900/-287.-1080.1920.1080@0.0.1440.900" timestamp="1591364105719" />
     <state x="245" y="113" key="com.intellij.ide.util.TipDialog" timestamp="1591242059015">
       <screen x="0" y="0" width="1097" height="577" />
     </state>
     <state x="245" y="113" key="com.intellij.ide.util.TipDialog/0.0.1097.577@0.0.1097.577" timestamp="1591242059015" />
+    <state x="507" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591364108158">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-287.-1080.1920.1080@0.0.1440.900" timestamp="1591364108158" />
   </component>
 </project>
