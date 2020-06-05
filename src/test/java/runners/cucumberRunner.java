@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "stepDef",
         dryRun = false,
-        tags = "",
+        tags = "@smoke",
         plugin = {"html:target/default-cucumber-reports",
                 "json:target/cucumber.json",
                 "rerun:target/rerun.txt"
