@@ -1,5 +1,5 @@
 target
 .idea
 .iml
-CucumberRunner.java
+cucumberRunner.java
 .xml
