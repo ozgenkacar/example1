@@ -57,13 +57,22 @@
       <option name="presentableId" value="Default" />
       <updated>1591234112504</updated>
     </task>
+    <task id="LOCAL-00001" summary="hbjvHCC">
+      <created>1591365754925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591365754926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hbjvHCC" />
+    <option name="LAST_COMMIT_MESSAGE" value="hbjvHCC" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="55" key="CommitChangelistDialog2" timestamp="1591364105719">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="344" y="55" key="CommitChangelistDialog2/0.0.1440.900/-287.-1080.1920.1080@0.0.1440.900" timestamp="1591364105719" />
+
     <state x="245" y="113" key="com.intellij.ide.util.TipDialog" timestamp="1591242059015">
       <screen x="0" y="0" width="1097" height="577" />
     </state>
